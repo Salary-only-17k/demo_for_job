@@ -1,5 +1,6 @@
 # demo_for_job  
-Demo for job hunting  
+Demo for job hunting 
+这些demo可能和你们的业务有偏差，这些demo只是表示我有做好这个事的能力。
 ## 1 llm demo
 全部使用langchain/langgraph实现。实现了一个框架。
 ### v0.1  
