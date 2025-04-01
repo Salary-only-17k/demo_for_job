@@ -3,7 +3,7 @@ Demo for job hunting
 ## llm demo
 全部使用langchain/langgraph实现。实现了一个框架。
 ### v0.1  
-![click video](https://www.bilibili.com/video/BV14ARMYLEsV/?vd_source=8bbf3cb1652e5970bfa9fea339b83ac6)  
+https://www.bilibili.com/video/BV14ARMYLEsV/?vd_source=8bbf3cb1652e5970bfa9fea339b83ac6   
 **介绍**  
 1. 调用的千问大模型api。   
 2. 参考coze的调用流方式，实现的代码。通过请求某个工作流，然后在工作流内部请求详细任务。
@@ -19,7 +19,7 @@ Demo for job hunting
   2.1 角色为农业专家，外部数据库有10种作物（使用了rag技术），每种作物知识包括：生长周期内需要化肥介绍，灌水量介绍，（辽宁地区）适合种植时间。
   2.2 根据用户的输入，查询表格，写入xlsx，分析表格功能。  
 ### v0.2
-![click_video](https://www.bilibili.com/video/BV1WXQGY2EbC/?vd_source=8bbf3cb1652e5970bfa9fea339b83ac6)   
+https://www.bilibili.com/video/BV1WXQGY2EbC/?vd_source=8bbf3cb1652e5970bfa9fea339b83ac6  
 **介绍**   
 对v0.1优化。  
 
@@ -35,7 +35,7 @@ Demo for job hunting
 2. 把记忆做成rag检索的模式。
 
 ### v0.3.1
-![click_video](https://www.bilibili.com/video/BV1Z3ZFYmEFj/?vd_source=8bbf3cb1652e5970bfa9fea339b83ac6)
+https://www.bilibili.com/video/BV1Z3ZFYmEFj/?vd_source=8bbf3cb1652e5970bfa9fea339b83ac6
 
 **介绍**   
 为了应对面试，花了一天时间写的demo。主要工作为rag优化。还有优化地方。
