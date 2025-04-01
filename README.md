@@ -7,6 +7,7 @@ https://www.bilibili.com/video/BV14ARMYLEsV/?vd_source=8bbf3cb1652e5970bfa9fea33
 **介绍**  
 1. 调用的千问大模型api。   
 2. 参考coze的调用流方式，实现的代码。通过请求某个工作流，然后在工作流内部请求详细任务。
+3. 主图下面很多子图
 
 **功能介绍**  
 1. 调用函数
