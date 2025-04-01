@@ -1,6 +1,6 @@
 # demo_for_job  
 Demo for job hunting  
-## llm demo
+## 1 llm demo
 全部使用langchain/langgraph实现。实现了一个框架。
 ### v0.1  
 https://www.bilibili.com/video/BV14ARMYLEsV/?vd_source=8bbf3cb1652e5970bfa9fea339b83ac6   
@@ -61,3 +61,5 @@ https://www.bilibili.com/video/BV1Z3ZFYmEFj/?vd_source=8bbf3cb1652e5970bfa9fea33
 3. 有噪声数据，文章有很多方面，有使用手册，农业知识，客服聊天记录，工作表格，项目计划书，项目手册。
 4. 根据用户需要查询的内容，返回结果。
 5. 调用的本地embedding、chat和rand模型，chat为7b的小模型，解析有时候不准。
+## 2 视觉算法
+## 3 框架演示
