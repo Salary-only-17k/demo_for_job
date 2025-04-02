@@ -61,7 +61,7 @@ https://www.bilibili.com/video/BV1Z3ZFYmEFj/?vd_source=8bbf3cb1652e5970bfa9fea33
 2. 33篇文章，长的有81页，短的有1页。
 3. 有噪声数据，文章有很多方面，有使用手册，农业知识，客服聊天记录，工作表格，项目计划书，项目手册。
 4. 根据用户需要查询的内容，返回结果。
-5. 调用的本地embedding、chat和rand模型，chat为7b的小模型，解析有时候不准。
+5. 调用的本地embedding、chat和rerand模型，chat为7b的小模型，解析有时候不准。
 ## 2 视觉算法
 展示不做演示。
 ## 3 框架演示
