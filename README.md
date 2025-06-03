@@ -1,5 +1,12 @@
 # demo_for_job  
 这些demo可能和你们的业务有偏差，这些demo只是表示我有做好这个事的能力。
+## 20250603
+局域网使用的大模型对话/文件分析平台
+https://www.bilibili.com/video/BV1Vb74zFEdV/?vd_source=8bbf3cb1652e5970bfa9fea339b83ac6
+
+
+
+
 ## 1 llm demo
 全部使用langchain/langgraph实现。实现了一个框架。
 ### v0.1  
