@@ -1,7 +1,7 @@
 # demo_for_job  
 这些demo可能和你们的业务有偏差，这些demo只是表示我有做好这个事的能力。
 ## 20250603
-局域网使用的大模型对话/文件分析平台
+局域网使用的大模型对话/文件分析平台demo，用了1天多时间开发。
 https://www.bilibili.com/video/BV1Vb74zFEdV/?vd_source=8bbf3cb1652e5970bfa9fea339b83ac6
 
 
