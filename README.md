@@ -1,4 +1,8 @@
 # demo_for_job  
+------------
+最新的东西看这个[here](https://github.com/Salary-only-17k/LANChat_doc/tree/main),已经成为产品了。  
+下面的可以不看了，不成熟。
+-----------
 ## 1 llm demo
 全部使用langchain/langgraph实现。实现了一个框架。
 ### v0.1  
