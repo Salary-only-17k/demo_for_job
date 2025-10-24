@@ -1,22 +1,4 @@
 # demo_for_job  
-这些demo可能和你们的业务有偏差，这些demo只是表示我有做好这个事的能力。
-## LANChat 20250831
-[LANChat平台介绍文档]("LANChat 产品介绍文档.pdf")  
-LANChat是一款专为高保密需求场景设计的本地化大语言模型部署平台，搭载NVIDIA Jetson AGX Orin（64GB）边缘计算设备，支持6-8人同时低延迟交互。  
-
-
-## 20250606
-个人版在开发路上。增加了5个功能，主要面向科研人员。可咨询。
-还差一个金融tracagent在融合。。。
-
-
-## 20250603
-局域网使用的大模型对话/文件分析平台demo，用了1天多时间开发。
-https://www.bilibili.com/video/BV1Vb74zFEdV/?vd_source=8bbf3cb1652e5970bfa9fea339b83ac6
-
-
-
-
 ## 1 llm demo
 全部使用langchain/langgraph实现。实现了一个框架。
 ### v0.1  
